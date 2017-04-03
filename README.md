@@ -1,7 +1,13 @@
 # data_science_praktik
 Assignment for Jyllands Postens Data Science praktik
 
-Ref: Kaggle dataset
+Fork this repo and create data visualization from the pokemon.zip dataset contained in this repository. The assignment is meant to be open and it is the responsibility of student to figure out the best way of visualizating the data to create the most meaning of it (Grouping of pokemon type or something entirely different)
+
+The interview will be about the solution for this assignment and general talk about the data science team at Jyllands Posten. 
+
+Please handin a url to the forked repo.
+
+Ref: Kaggle pokemon dataset
 
 This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.
 
