@@ -3,11 +3,18 @@ Assignment for Jyllands Postens Data Science praktik
 
 Fork this repo and create data visualization from the pokemon.zip dataset contained in this repository. The assignment is meant to be open and it is the responsibility of student to figure out the best way of visualizating the data to create the most meaning of it (Grouping of pokemon type or something entirely different)
 
+The solution should be programmed in any of the following languages:
+- Java
+- Scala
+- Python
+
+The visualization could be directly in a Jupyter Notebook or exported to third party graph delivered as either jpeg, png or pdf. 
+
 The interview will be about the solution for this assignment and general talk about the data science team at Jyllands Posten. 
 
-Please handin a url to the forked repo.
+Please handin a url to the forked repo containing programming solution, all visualizations and a small file contained a small writeup of the ideas used on the solution.
 
-Ref: Kaggle pokemon dataset
+## Ref: Kaggle pokemon dataset
 
 This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed. It has been of great use when teaching statistics to kids. With certain types you can also give a geeky introduction to machine learning.
 
